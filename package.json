@@ -1,8 +1,8 @@
 {
-  "name": "com.omiyagames.template",
-  "displayName": "Omiya Games - Template Unity Package",
+  "name": "com.vngmps.com.vng.mps.mpstools",
+  "displayName": "VNG - Mps Tools",
   "version": "1.0.0-pre.1",
-  "unity": "2021.2",
+  "unity": "2019.2",
   "unityRelease": "11f1",
   "description": "This is a template package, used as a basis to build a bigger one.",
   "category": "Tool",
